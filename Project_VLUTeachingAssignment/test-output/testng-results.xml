@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-07T15:07:45 ICT" name="Default suite" finished-at="2025-04-07T15:08:23 ICT" duration-ms="37765">
+    <groups>
+    </groups>
+    <test started-at="2025-04-07T15:07:45 ICT" name="Default test" finished-at="2025-04-07T15:08:23 ICT" duration-ms="37765">
+      <class name="tests.PhanCongTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.PhanCongTest@1725dc0f]" started-at="2025-04-07T15:07:45 ICT" name="setUp" finished-at="2025-04-07T15:07:49 ICT" duration-ms="4296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:1, instance:tests.PhanCongTest@1725dc0f]" started-at="2025-04-07T15:07:49 ICT" name="login" finished-at="2025-04-07T15:08:01 ICT" duration-ms="12040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="openPhanCong()[pri:2, instance:tests.PhanCongTest@1725dc0f]" started-at="2025-04-07T15:08:01 ICT" name="openPhanCong" finished-at="2025-04-07T15:08:03 ICT" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPhanCong -->
+        <test-method signature="filterAndExport()[pri:3, instance:tests.PhanCongTest@1725dc0f]" started-at="2025-04-07T15:08:03 ICT" name="filterAndExport" finished-at="2025-04-07T15:08:23 ICT" duration-ms="20036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterAndExport -->
+      </class> <!-- tests.PhanCongTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
